@@ -6,8 +6,14 @@ useradd For iOS Jailbreak
 ``You need root or sudo for use this``
 
 `$ useradd`
+
+
 `Enter Username: ablixa`
+
+
 `The default password is: alpine`
+
+
 `Now you can enter the user`
 
 _________________
